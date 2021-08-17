@@ -1,18 +1,18 @@
 const textConfig = {
-  text1: "Hewwo QwQ",
-  text2: "Tui mới nghịch được cái này nè thử xem có gì vui không á :))",
-  text3: "Nghịch thôi nhé bà đừng để ý nha :)). Bà vẫn đang xem movie đúng không á :))",
-  text4: "Nếu bà không trả lời mà thoát ra tức là chuẩn rồi đó nha :v",
-  text5: "Sai bét rồi ông :))",
-  text6: "Errrr? Sao ông biết hay thế :v",
-  text7: "Có gì để nhắn không bà QwQ",
-  text8: "Gửi cho tui <3",
-  text9: "Đừng bỏ gameeeee nhaaaaaaa",
-  text10: "Tui biết mà ^^ Còn lâu mới bỏ XD",
+  text1: "Xời chào mẹ nha mẹ nha :))",
+  text2: "Dăm ba mấy cái lập web này mẹ nghĩ con không làm được ạ :))",
+  text3: "Con nghịch tý thôi nè giờ chắc mẹ vẫn đang xem Facebook chứ gì ạ:))",
+  text4: "Mà mẹ khỏi nói thì con cũng biết rồi mà ạ :))",
+  text5: "Học đi code củng cái gì",
+  text6: "Ô hay thế ???",
+  text7: "Ui giời tưởng gì chứ dăm ba cái này :))))",
+  text8: "Đi ngủ thôi mẹ ơi :))",
+  text9: "Mẹ lên giờ đây",
+  text10: "Rồi rồi mẹ lên đi ạ --",
   text11:
-    "Còn giờ thì ngủ thooi~ Mai lại chiến game tiếp nhé XD",
-  text12: "Okii lunn <3",
-};https://www.facebook.com/CrushtoitenTran2510/
+    "Mai con ăn mì tôm nhé mẹ nhé",
+  text12: "Oke ",
+};
 
 $(document).ready(function () {
   // process bar
